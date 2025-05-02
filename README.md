@@ -7,7 +7,7 @@ Je suis en formation développeur web et je recherche actuellement une alternanc
 ## 🚀 Mes projets
 
 ### 🧵 [L’Atelier des Petites Bulles](https://github.com/adscuglia/les-petites-bulles)
-Un site vitrine et e-commerce pour une entreprise d’ateliers de couture pour enfants.  
+Un site vitrine dédié aux ateliers de couture pour enfants, avec une réservation en ligne et une gestion de produits (tissus, accessoires...).
 🔗 [Voir le site en ligne](https://latelierdespetitesbulles.fr)
 
 ## 💼 Compétences
