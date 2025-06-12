@@ -10,11 +10,16 @@ Je suis en formation développeur web et je recherche actuellement une alternanc
 Un site vitrine dédié aux ateliers de couture pour enfants, avec une réservation en ligne et une gestion de produits (tissus, accessoires...).
 🔗 [Voir le site en ligne](https://latelierdespetitesbulles.fr)
 
+### 🎮 [Jeu du Pendu](https://github.com/adscuglia/jeu-du-pendu)
+Petit jeu en JavaScript pour deviner un mot, lettre par lettre.  
+🔗 [Voir le dépôt](https://github.com/adscuglia/jeu-du-pendu)
+
+
 ## 💼 Compétences
 
 - PHP (MVC)
 - MySQL
-- HTML / CSS / JavaScript / C
+- HTML / CSS / JavaScript / C / React
 - UIkit
 - Git / GitHub
 - WordPress
