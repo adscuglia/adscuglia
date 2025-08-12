@@ -14,6 +14,9 @@ Un site vitrine dédié aux ateliers de couture pour enfants, avec une réservat
 Petit jeu en JavaScript pour deviner un mot, lettre par lettre.  
 🔗 [Voir le dépôt](https://github.com/adscuglia/jeu-du-pendu)
 
+### 🎮 [catalogue de jeux](https://github.com/adscuglia/bibliotheque-jeux)
+Application web développée en React permettant de parcourir un catalogue de jeux grâce à la connexion à une API externe. L’utilisateur peut découvrir les fiches de jeux avec leurs informations détaillées et naviguer facilement grâce à une interface claire.
+🔗 [Voir le dépôt](https://github.com/adscuglia/bibliotheque-jeux)
 
 ## 💼 Compétences
 
